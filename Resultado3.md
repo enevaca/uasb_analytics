@@ -28,8 +28,8 @@ Se puedo observar que en el Arbol de Desiciones:
 * los que tiene mayor a 70654 de capital ganado y tienen menor o igual 35 horas de trabajo son Profesores de Escuela
 * los que tiene mayor a 70654 de capital ganado y tienen mayor 27 horas de trabajo han hecho algunos estudios universitarios
 * los que tiene mayor a 70654 de capital ganado y tiene menor o igual 27 horas de trabjo son Bachilleres
-Por otro lado: 
 
+Por otro lado: 
 * los que tiene menor a 37702 de capital ganado son Masters
 * los que tiene menor o igual a 14682 de capital ganado son de Estudios Superiores
 * los que tiene mayor a 30961 de capital ganado son de Estudios Superiores
