@@ -1,10 +1,10 @@
-#Resultado 1
 ---
 title: "Resultado1.md"
 author: "NoelVacaMoreno"
 date: "06/05/2016"
 output: html_document
 ---
+#Resultado 1
 ##Resultado del estudio de la probabilidad para entrar a la universidad
 
 Se desea enconcontar quien van a llegar a la universidad segun los siguientas datos:
