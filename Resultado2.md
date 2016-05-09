@@ -14,6 +14,8 @@ Para este estudio tomé encuenta las columnas del dataset:
 * Capital perdido
 * Horas por semana
 
+![Resultado2](https://github.com/enevaca/uasb_analytics/blob/master/Resultado2.png "Resultado2")
+
 Para el estudio se ha utilizado un Select Attributes para filtrar los datos, en donde se 
 eligieron los campos arriba mencionados, luego se usó un Filter Examples para realizar 
 el estudio o filtro de algún parámetro de acuerdo a alguna condición especifícica y, 
