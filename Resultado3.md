@@ -14,6 +14,8 @@ Para este estudio tomé encuenta las columnas del dataset:
 * Educación
 * Horas por semana
 
+![Resultado3](https://github.com/enevaca/uasb_analytics/blob/master/Resultado3.png "Resultado3")
+
 Para el estudio se ha utilizado un Select Attributes para filtrar los datos, en donde se 
 eligieron los campos arriba mencionados, luego se usó un Set Role para para especificar que el
 estudio se hará en base al parámetro educación, luego se utilizó un Decision Tree que hará 
