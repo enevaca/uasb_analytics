@@ -15,6 +15,8 @@ Se desea enconcontar quien van a llegar a la universidad segun los siguientas da
 * Nacionalidad
 * Raza
 
+![Resultado1](https://github.com/enevaca/uasb_analytics/blob/master/Resultado1.png "Resultado1")
+
 Para el estudio se ha utilizado un Select Attributes para filtrar los datos, en donde se 
 eligieron los campos arriba mencionados, luego se usó un Set Role para especificar que el
 estudio se hará en base al parámetro educación, luego se utilizó un Decision Tree que hará 
